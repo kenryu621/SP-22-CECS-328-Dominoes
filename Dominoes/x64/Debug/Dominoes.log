@@ -1,0 +1,4 @@
+﻿  StudentSolver.cpp
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Dominoes\Dominoes\StudentSolver.cpp(57,9): warning C4101: 'second_int': unreferenced local variable
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Dominoes\Dominoes\StudentSolver.cpp(240,35): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  Dominoes.vcxproj -> C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Dominoes\x64\Debug\Dominoes.exe
